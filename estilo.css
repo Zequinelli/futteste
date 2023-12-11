@@ -1,0 +1,67 @@
+#container {
+
+	border: 1px solid black;
+	width: 420px;
+	margin: 0 auto;
+}
+
+#conteudo {
+
+	
+	width: 260px;
+	margin: 0 auto;
+	padding: 10px;
+
+
+
+
+}
+
+
+#nome-lateral {
+
+	
+
+	width: 120px;
+
+	float: left;
+
+	text-align: center;
+
+
+}
+
+#gol-lateral {
+
+	
+
+	width: 120px;
+
+	float: right;
+
+	text-align: center;
+
+
+}
+
+#limpar {
+	clear: both;
+}
+
+input {
+
+	width: 90px;
+	
+}
+
+
+.nomes {
+	padding: 5px;
+}
+
+.gol {
+	padding: 4px;
+	width: 120px;
+
+
+}
